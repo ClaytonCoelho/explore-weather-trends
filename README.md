@@ -6,4 +6,4 @@ In this project, I analyzed Guarulhos city and global temperature data and compa
 
 The data was extracted from a Udacity SQL Server saved in the `data` folder in csv format.
 
-The whole project is developed within [Jupyter Notebook] (https://jupyter.org/) and the data is imported and worked using the [Pandas] library (https://pandas.pydata.org/) of the [Python language ] (https://www.python.org/).The whole project is developed within [Jupyter Notebook] (https://jupyter.org/) and the data is imported and worked using the [Pandas] library (https://pandas.pydata.org/) of the [Python language ] (https://www.python.org/).
+The whole project is developed within [Jupyter Notebook](https://jupyter.org/) and the data is imported and worked using the [Pandas library](https://pandas.pydata.org/) of the [Python language ](https://www.python.org/).
